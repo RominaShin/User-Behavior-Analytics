@@ -1,1 +1,5 @@
-This is Divar's Summer Camp Entrance task for data analysis position.
+
+User behavior is an important part of data analysis for businesses. This project monitors behavior of Divar's users and has been done in three major parts:
+•Data cleansing
+•Define metrics such: dark query rate, query bounce rate,etc.
+•Bernoulli distribution of defined metrics
